@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Exploring the Basics of Web Development",
+      "cover": "https://ik.imagekit.io/5nh9jjrpn/turned-gray-laptop-computer.jpg?updatedAt=1730640232977",
+      "author": "Alex Johnson",
+      "author_img": "https://ik.imagekit.io/5nh9jjrpn/turned-gray-laptop-computer.jpg?updatedAt=1730640232977",
+      "reading_time": 7,
+      "posted_date": "2024-10-25",
+      "hashtags": ["#WebDevelopment", "#HTML", "#CSS", "#JavaScript"]
+    },
+    {
+      "id": 2,
+      "title": "Understanding JavaScript Closures",
+      "cover": "https://ik.imagekit.io/5nh9jjrpn/hacker-with-coffee-doing-crime-activity.jpg?updatedAt=1730640221233",
+      "author": "Maria Green",
+      "author_img": "https://ik.imagekit.io/5nh9jjrpn/hacker-with-coffee-doing-crime-activity.jpg?updatedAt=1730640221233",
+      "reading_time": 5,
+      "posted_date": "2024-10-20",
+      "hashtags": ["#JavaScript", "#Closures", "#Programming"]
+    },
+    {
+      "id": 3,
+      "title": "A Guide to Responsive Design",
+      "cover": "https://ik.imagekit.io/5nh9jjrpn/programer-coding-laptop-sitting-down-desk-with-computer-screens-parsing-code-software-agency-software-developer-compiling-algorithms-with-cloud-programers-working-background.jpg?updatedAt=1730640211657",
+      "author": "Chris Lee",
+      "author_img": "https://ik.imagekit.io/5nh9jjrpn/programer-coding-laptop-sitting-down-desk-with-computer-screens-parsing-code-software-agency-software-developer-compiling-algorithms-with-cloud-programers-working-background.jpg?updatedAt=1730640211657",
+      "reading_time": 6,
+      "posted_date": "2024-11-01",
+      "hashtags": ["#CSS", "#ResponsiveDesign", "#Frontend"]
+    },
+    {
+      "id": 4,
+      "title": "Mastering Async Programming in JavaScript",
+      "cover": "https://i.postimg.cc/C1Q5r1tv/file.jpg",
+      "author": "Lily Evans",
+      "author_img": "https://i.postimg.cc/C1Q5r1tv/file.jpg",
+      "reading_time": 8,
+      "posted_date": "2024-10-28",
+      "hashtags": ["#JavaScript", "#Async", "#Programming"]
+    },
+    {
+      "id": 5,
+      "title": "An Introduction to Web Accessibility",
+      "cover": "https://i.postimg.cc/HkwJWTcx/file-1.jpg",
+      "author": "Tom Brown",
+      "author_img": "https://i.postimg.cc/HkwJWTcx/file-1.jpg",
+      "reading_time": 9,
+      "posted_date": "2024-10-30",
+      "hashtags": ["#WebAccessibility", "#A11Y", "#InclusiveDesign"]
+    }
+  ]
+  
